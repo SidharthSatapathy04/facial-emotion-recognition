@@ -1,0 +1,16 @@
+# Virtualenv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Model cache (DeepFace downloads models)
+.deepface/
